@@ -1,3 +1,3 @@
-# Flasky!
+# Movie reviews
 
-An Flask server we'll build day-by-day to handle requests about dogs and cats!
+A simple Flask app for Optional API Review session
